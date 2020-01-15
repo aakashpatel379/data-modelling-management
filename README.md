@@ -1,3 +1,5 @@
+## Data Modeling - Management
+
 ### Overview
 
 Data Management project based on Kaggle datasets on multidisciplinary domains like Economy, School and Vehicle Sales. Performed Exploratory Data Analysis, Cleaning, Modelling and Design to arrive on final schema. Final design is normalized in 3NF.
